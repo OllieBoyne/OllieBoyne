@@ -18,7 +18,7 @@ My research interest is in *accurate shape reconstruction* from mobile phone ima
 
 🖌️ [Mesh labeller](https://github.com/OllieBoyne/mesh_labeller) - Tool for labelling semantics on a mesh surface &nbsp; ![](https://shields.io/github/stars/OllieBoyne/mesh_labeller?logo=github&label=Stars)
 
-🪨 [PyTorch ARAP](https://github.com/OllieBoyne/pytorch-arap) - As-Rigid-As-Possible implementation in PyTorch &nbsp; ![](https://shields.io/github/stars/OllieBoyne/pytorch-arap?logo=github&label=Stars)
+📐 [PyTorch ARAP](https://github.com/OllieBoyne/pytorch-arap) - As-Rigid-As-Possible implementation in PyTorch &nbsp; ![](https://shields.io/github/stars/OllieBoyne/pytorch-arap?logo=github&label=Stars)
 
 <!---
 -[pfhm](https://github.com/OllieBoyne/sslap) - Python function heatmap tool &nbsp; ![](https://shields.io/github/stars/OllieBoyne/sslap?logo=github&label=Stars)
