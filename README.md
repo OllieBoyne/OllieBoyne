@@ -12,9 +12,9 @@ My research interest is in *accurate shape reconstruction* from mobile phone ima
 
 ### Tools and packages
 
-🎥 [BlenderSynth](https://github.com/OllieBoyne/BlenderSynth) - Blender synthetic dataset producer &nbsp; ![](https://shields.io/github/stars/OllieBoyne/BlenderSynth?logo=github&label=Stars) ![](https://img.shields.io/pypi/dm/blendersynth.svg?label=PyPI%20downloads&logo=PyPI&logoColor=white)
+🎥 [BlenderSynth](https://github.com/OllieBoyne/BlenderSynth) - Blender synthetic dataset producer &nbsp; ![](https://shields.io/github/stars/OllieBoyne/BlenderSynth?logo=github&label=Stars) [![](https://img.shields.io/pypi/dm/blendersynth.svg?label=PyPI%20downloads&logo=PyPI&logoColor=white)](https://pypi.org/project/blendersynth/)
 
-📊 [sslap](https://github.com/OllieBoyne/sslap) - Super-sparse linear assignment problem solver &nbsp; ![](https://shields.io/github/stars/OllieBoyne/sslap?logo=github&label=Stars) ![](https://img.shields.io/pypi/dm/sslap.svg?label=PyPI%20downloads&logo=PyPI&logoColor=white)
+📊 [sslap](https://github.com/OllieBoyne/sslap) - Super-sparse linear assignment problem solver &nbsp; ![](https://shields.io/github/stars/OllieBoyne/sslap?logo=github&label=Stars) [![](https://img.shields.io/pypi/dm/sslap.svg?label=PyPI%20downloads&logo=PyPI&logoColor=white)](https://pypi.org/project/sslap/)
 
 🖌️ [Mesh labeller](https://github.com/OllieBoyne/mesh_labeller) - Tool for labelling semantics on a mesh surface &nbsp; ![](https://shields.io/github/stars/OllieBoyne/mesh_labeller?logo=github&label=Stars)
 
