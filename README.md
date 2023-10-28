@@ -6,7 +6,7 @@ My research interest is in *accurate shape reconstruction* from mobile phone ima
 
 ### Projects
 
-[NEW] 🦶 [FOUND](https://ollieboyne.github.io/FOUND/) [WACV 2024] - Fitting FIND to images using predicted surface normals ![](https://shields.io/github/stars/OllieBoyne/FOUND?logo=github&label=Stars)
+[NEW] 🦶 [FOUND](https://ollieboyne.github.io/FOUND/) [WACV 2024] - Fitting FIND to images using predicted surface normals &nbsp; ![](https://shields.io/github/stars/OllieBoyne/FOUND?logo=github&label=Stars)
 
 🦶 [FIND](https://ollieboyne.github.io/FIND/) [BMVC 2022] - Generative implicit foot model &nbsp; ![](https://shields.io/github/stars/OllieBoyne/FIND?logo=github&label=Stars)
 
