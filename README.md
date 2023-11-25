@@ -6,7 +6,7 @@ My research interest is in *accurate shape reconstruction* from mobile phone ima
 
 ### Projects
 
-[NEW] 🦶 [FOUND](https://ollieboyne.github.io/FOUND/) [WACV 2024] - Fitting FIND to images using predicted surface normals &nbsp; ![](https://shields.io/github/stars/OllieBoyne/FOUND?logo=github&label=Stars)
+🦶 [FOUND](https://ollieboyne.github.io/FOUND/) [WACV 2024] - Fitting FIND to images using predicted surface normals &nbsp; ![](https://shields.io/github/stars/OllieBoyne/FOUND?logo=github&label=Stars)
 
 🦶 [FIND](https://ollieboyne.github.io/FIND/) [BMVC 2022] - Generative implicit foot model &nbsp; ![](https://shields.io/github/stars/OllieBoyne/FIND?logo=github&label=Stars)
 
@@ -22,15 +22,10 @@ My research interest is in *accurate shape reconstruction* from mobile phone ima
 
 📐 [PyTorch ARAP](https://github.com/OllieBoyne/pytorch-arap) - As-Rigid-As-Possible implementation in PyTorch &nbsp; ![](https://shields.io/github/stars/OllieBoyne/pytorch-arap?logo=github&label=Stars)
 
-<!---
--[pfhm](https://github.com/OllieBoyne/sslap) - Python function heatmap tool &nbsp; ![](https://shields.io/github/stars/OllieBoyne/sslap?logo=github&label=Stars)
--->
-
-
 
 ### Datasets
 
-[NEW] 🦶 [SynFoot](https://github.com/OllieBoyne/SynFoot) - Large synthetic dataset of foot images with masks, surface normals & keypoints &nbsp; ![](https://shields.io/github/stars/OllieBoyne/SynFoot?logo=github&label=Stars) ![](https://img.shields.io/endpoint?url=https%3A%2F%2Fscript.google.com%2Fmacros%2Fs%2FAKfycbyRdZfs9jmLEnq_cmwsLwkd_L3R9JroevQqD-duufVXgplUDRJu-dXfSnvaSqYsQxsoaA%2Fexec
+🦶 [SynFoot](https://github.com/OllieBoyne/SynFoot) - Large synthetic dataset of foot images with masks, surface normals & keypoints &nbsp; ![](https://shields.io/github/stars/OllieBoyne/SynFoot?logo=github&label=Stars) ![](https://img.shields.io/endpoint?url=https%3A%2F%2Fscript.google.com%2Fmacros%2Fs%2FAKfycbyRdZfs9jmLEnq_cmwsLwkd_L3R9JroevQqD-duufVXgplUDRJu-dXfSnvaSqYsQxsoaA%2Fexec
 )
 
 🦶 [Foot3D](https://github.com/OllieBoyne/Foot3D) - 3D foot scans & multiview reconstruction benchmark &nbsp; ![](https://shields.io/github/stars/OllieBoyne/Foot3D?logo=github&label=Stars)
