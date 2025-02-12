@@ -6,6 +6,8 @@ My research interest is in *accurate shape reconstruction* from mobile phone ima
 
 ### Projects
 
+🦶 [FOCUS](https://ollieboyne.github.io/FOCUS/) [3DV 2025] - Predicting dense correspondences and recovering 3D geometry &nbsp; ![](https://shields.io/github/stars/OllieBoyne/FOCUS?logo=github&label=Stars)
+
 🦶 [FOUND](https://ollieboyne.github.io/FOUND/) [WACV 2024] - Fitting FIND to images using predicted surface normals &nbsp; ![](https://shields.io/github/stars/OllieBoyne/FOUND?logo=github&label=Stars)
 
 🦶 [FIND](https://ollieboyne.github.io/FIND/) [BMVC 2022] - Generative implicit foot model &nbsp; ![](https://shields.io/github/stars/OllieBoyne/FIND?logo=github&label=Stars)
