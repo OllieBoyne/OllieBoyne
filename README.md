@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-My name is Ollie, I am a 3rd Year PhD Student working at the Machine Intelligence Laboratory at the Cambridge University Engineering Department, supervised by [Prof. Roberto Cipolla](https://mi.eng.cam.ac.uk/~cipolla/).
+My name is Ollie, I am a software engineer working at Google in the Android XR team - on Synthetic Humans.
 
-My research interest is in *accurate shape reconstruction* from mobile phone images. My PhD is sponsored by [Trya Srl](https://snapfeet.io/), and I am working with them on developing methods for foot reconstruction, aiming to revolutionise the digital shoe shopping experience.
+Before this, I completed a PhD at the Machine Intelligence Laboratory at the Cambridge University Engineering Department, supervised by [Prof. Roberto Cipolla](https://mi.eng.cam.ac.uk/~cipolla/). My research interest was *accurate shape reconstruction* from mobile phone images. The PhD was sponsored by [Trya Srl](https://snapfeet.io/), working on developing methods for foot reconstruction to revolutionise the digital shoe shopping experience.
 
 ### Projects
 
